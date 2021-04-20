@@ -3,7 +3,7 @@ This section, we provide five datasets, which can be used for research about sen
 
 No. |Dataset | Language| Instances | Features | classes 
 --- | --- | --- | --- | --- |---
-1 | Omnibus Law | Indonesia | 400 | 1,7423 | 2 
+1 | Omnibus Law | Indonesia | 400 | 1,723 | 2 
 2 | COVID-19 | Indonesia | 400 | 1,902| 2 
 3 | Airlines | English | 400 | 1,647| 2 
 4 | Weather | English | 400 | 1,647| 2 
