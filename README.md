@@ -16,7 +16,6 @@ Don't forget to cite our paper if you use those datasets.
 Enhancing sentiment classification performance using hybrid Query Expansion Ranking and Binary Particle Swarm Optimization with Adaptive Inertia Weights,
 ICT Express,
 2021,
-,
 ISSN 2405-9595,
 https://doi.org/10.1016/j.icte.2021.04.009.
 (https://www.sciencedirect.com/science/article/pii/S2405959521000539)
